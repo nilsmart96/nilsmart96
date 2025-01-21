@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilsmart96
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing a masters degree in the field
+- 🌱 I work as Junior Data Scientist @ Yttrium Growth Capital
 - 💞️ I’m looking to collaborate on interesting Data Science related projects
 
 <!---
