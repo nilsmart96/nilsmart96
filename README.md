@@ -2,14 +2,15 @@
 
 I lead **data and AI** at **Yttrium**, a growth-stage private equity fund. I build the data platform our investment team runs on and the full-stack apps that sit on top of it.
 
-In practice that means owning the whole pipeline: ingesting from dozens of external sources into a data warehouse, cleaning, enriching and transforming the data via APIs, agents and human inputs, as well as shipping the internal tools the team uses every day to source deals, run fundraising, and track portfolio performance.
+In practice that means owning the whole pipeline: ingesting from dozens of external sources into a data warehouse, cleaning, enriching, and transforming the data via APIs, agents, and human input, as well as shipping the internal tools the team uses every day to source deals, run fundraising, and track portfolio performance.
+
+All of this builds on a quant/ML background I still draw on — from NLP and time-series forecasting to the occasional satellite-data side quest.
 
 #### 🛠️ What I'm building
 
-  - A Dagster + dbt data platform on BigQuery — orchestrated ingestion and transformation across dozens of sources
-  - Internal full-stack apps (React/Refine + FastAPI on Cloud Run) that read from and write back to the warehouse
-  - Automation that closes the loop — edits made in-app sync straight back out to our external tools
-  - A quant/ML background I still draw on — NLP, time-series forecasting, and the occasional satellite-data side quest
+- A Dagster + dbt data platform on BigQuery — orchestrating the pipeline from raw ingestion to clean, analytics-ready tables
+- Internal full-stack apps (React/Refine + FastAPI on Cloud Run) that read from and write back to the warehouse
+- Automation that closes the loop — edits made in-app sync straight back out to our external tools
 
 #### 🤖 How I work
 
