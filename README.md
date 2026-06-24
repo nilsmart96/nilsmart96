@@ -1,6 +1,6 @@
 ### Hi, I'm Nils 👋
 
-I lead **data and AI** at **Yttrium**, a growth-stage venture capital fund. I build the data platform our investment team runs on — and the full-stack apps that sit on top of it.
+I lead **data and AI** at **Yttrium**, a growth-stage venture capital fund. I build the data platform our investment team runs on and the full-stack apps that sit on top of it.
 
 #### 🛠️ What I'm building
 
